@@ -1,0 +1,29 @@
+
+
+.texto-voce-sabia {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+    left: 500px;
+    top: 3300px;
+    position: absolute;
+}
+
+.texto-voce-sabia-1 {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    left: 500px;
+    top: 3550px;
+    position: absolute;
+}
+
+.img-lgbt-group {
+    width: 770px;
+    left: 510px;
+    top: 3650px;
+    position: absolute;
+}

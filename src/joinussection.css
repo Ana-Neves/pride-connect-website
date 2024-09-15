@@ -1,0 +1,67 @@
+
+.junte-se {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 45px;
+  font-weight: bolder;
+  text-align: center;
+  left: 790px;
+  top: 7000px;
+  position: absolute;
+}
+
+.junte-se-texto {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  text-align: right;
+  left: 999px;
+  top: 7290px;
+  position: absolute;
+}
+
+
+.img-hands-heart {
+  width: 500px;
+  left: 200px;
+  top: 7250px;
+  position: absolute;
+}
+
+
+
+.linkedin {
+  width: 50px;
+  left: 320px;
+  top: 7850px;
+  position: absolute;
+}
+
+
+.whatsapp {
+  width: 50px;
+  left: 410px;
+  top: 7850px;
+  position: absolute;
+}
+
+.instagram {
+  width: 50px;
+  left: 500px;
+  top: 7850px;
+  position: absolute;
+}
+
+
+
+
+.nossas-redes {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 29px;
+  font-weight: bolder;
+  text-align: center;
+  left: 320px;
+  top: 7770px;
+  position: absolute;
+}

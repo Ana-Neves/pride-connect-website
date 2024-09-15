@@ -1,0 +1,730 @@
+
+body {
+    background-color: rgba(253, 243, 239, 0.905);
+    position: relative;
+}
+
+
+header {
+    width: 1020%;
+    height: 100px; /* Altere para a altura desejada */
+    color: black;
+    background-color: #FFBFC4;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -30px;
+}
+
+.home-header {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    width: 10px;
+    height: 21px;
+    left: 100px;
+    top: 5px;
+    position: absolute;
+    background-color: transparent;
+}
+
+.about-header {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    width: 10px;
+    height: 21px;
+    left: 270px;
+    top: 5px;
+    position: absolute;
+    background-color: transparent;
+}
+
+
+.vagas-header {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    width: 10px;
+    height: 21px;
+    left: 470px;
+    top: 5px;
+    position: absolute;
+    background-color: transparent;
+}
+
+
+.direitos-header  {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    width: 10px;
+    height: 21px;
+    left: 770px;
+    top: 5px;
+    position: absolute;
+    background-color: transparent;
+}
+
+
+.programas-header {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    width: 10px;
+    height: 21px;
+    left: 1100px;
+    top: 5px;
+    position: absolute;
+    background-color: transparent;
+}
+
+
+header img {
+    width: 81px;
+    left: 1700px;
+    top: 5px;
+    position: absolute;
+}
+
+
+.img-pridepeople {
+    width: 1600px;
+    top: 87px;
+    margin-left: -400px;
+}
+
+
+.bem {
+    color: #fd4600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    left: 1300px;
+    top: 300px;
+    position: absolute;
+}
+
+
+
+.vindo {
+    color: #3d67ec;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    left: 1370px;
+    top: 300px;
+    position: absolute;
+}
+
+
+.ao {
+    color: #5cc68b;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    left: 1450px;
+    top: 300px;
+    position: absolute;
+}
+
+
+.h1-PrideConnect {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    font-weight: bolder;
+    left: 1150px;
+    top: 350px;
+    position: absolute;
+}
+
+
+.inclusao {
+    color: #fd4600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    left: 1100px;
+    top: 500px;
+    position: absolute;
+}
+
+
+.e {
+    color: #f9dc1c;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    left: 1210px;
+    top: 500px;
+    position: absolute;
+}
+
+.diversidade {
+    color: #00a364;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    left: 1230px;
+    top: 500px;
+    position: absolute;
+}
+
+.no {
+    color: #fd4600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    left: 1380px;
+    top: 500px;
+    position: absolute;
+}
+
+.mercado {
+    color: #5036bd;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    left: 1420px;
+    top: 500px;
+    position: absolute; 
+}
+
+
+
+.h1-sobre-nos {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    font-weight: bolder;
+    left: 780px;
+    top: 980px;
+    position: absolute;
+}
+
+
+.texto-sobre-nos {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    text-align: center;
+    left: 490px;
+    top: 1200px;
+    position: absolute;
+}
+
+
+.h2-porque {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: bolder;
+    left: 410px;
+    top: 1700px;
+    position: absolute;
+}
+
+
+.h2-nossa-missao {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: bolder;
+    left: 1230px;
+    top: 1700px;
+    position: absolute;
+}
+
+
+.h2-text-1 {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 27px;
+    text-align: center;
+    left: 465px;
+    top: 1800px;
+    position: absolute;
+}
+
+
+.h2-text-2 {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 27px;
+    text-align: center;
+    left: 1123px;
+    top: 1810px;
+    position: absolute;
+}
+
+.img-color-hearts {
+    position: absolute; /* ou relative ou fixed */
+    width: 200px;
+    top: 1945px; /* Ajuste o valor conforme necessário */
+    margin-left: -350px;
+}
+
+.o-que {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+    left: 670px;
+    top: 2410px;
+    position: absolute;
+}
+
+.texto-o-que {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 27px;
+    text-align: center;
+    left: 465px;
+    top: 2570px;
+    position: absolute;
+}
+
+
+.img-girls {
+    width: 300px;
+    left: 1330px;
+    top: 2630px;
+    position: absolute;
+}
+
+.vagas-de-emprego {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 27px;
+    text-align: center;
+    left: 465px;
+    top: 2750px;
+    position: absolute;
+
+}
+
+.direitos-trabalhistas {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 27px;
+    text-align: center;
+    left: 465px;
+    top: 2830px;
+    position: absolute;
+   
+}
+
+.programas-de-mentoria {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 27px;
+    text-align: center;
+    left: 465px;
+    top: 2930px;
+    position: absolute;
+    
+}
+
+
+
+
+.texto-voce-sabia {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+    left: 500px;
+    top: 3300px;
+    position: absolute;
+}
+
+.texto-voce-sabia-1 {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    left: 500px;
+    top: 3550px;
+    position: absolute;
+}
+
+.img-lgbt-group {
+    width: 770px;
+    left: 510px;
+    top: 3650px;
+    position: absolute;
+}
+
+
+.encontre-vagas {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: left;
+    left: 510px;
+    top: 4510px;
+    position: absolute;
+}
+
+
+.img-casal-lgbt {
+    width: 550px;
+    left: 50px;
+    top: 4450px;
+    position: absolute;
+}
+
+
+.texto-encontre-vagas {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: left;
+    left: 510px;
+    top: 4700px;
+    position: absolute;
+}
+
+
+.titulo-direitos {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: right;
+    left: 710px;
+    top: 5510px;
+    position: absolute;
+}
+
+
+.img-casalheart {
+    width: 550px;
+    left: 1390px;
+    top: 5280px;
+    position: absolute;
+}
+
+.programa-mentoria {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: left;
+    left: 510px;
+    top: 6310px;
+    position: absolute;
+}
+
+
+.img-casal-para-meninas {
+    width: 550px;
+    left: 80px;
+    top: 6200px;
+    position: absolute;
+}
+
+
+.junte-se {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+    left: 790px;
+    top: 7000px;
+    position: absolute;
+}
+
+.junte-se-texto {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: right;
+    left: 999px;
+    top: 7290px;
+    position: absolute;
+}
+
+
+.img-hands-heart {
+    width: 500px;
+    left: 200px;
+    top: 7250px;
+    position: absolute;
+}
+
+
+
+.linkedin {
+    width: 50px;
+    left: 320px;
+    top: 7850px;
+    position: absolute;
+}
+
+
+.whatsapp {
+    width: 50px;
+    left: 410px;
+    top: 7850px;
+    position: absolute;
+}
+
+.instagram {
+    width: 50px;
+    left: 500px;
+    top: 7850px;
+    position: absolute;
+}
+
+
+
+
+.nossas-redes {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 29px;
+    font-weight: bolder;
+    text-align: center;
+    left: 320px;
+    top: 7770px;
+    position: absolute;
+}
+
+footer {
+    background-color: #00a364;
+}
+
+/* Definindo o estilo do container */
+.div-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px; /* Espaçamento entre os elementos */
+    padding: 20px;
+    border-radius: 8px;
+    top: 4520px;
+    left: 1300px;
+    position: absolute;
+}
+
+/* Estilizando o input de texto */
+input[type="text"] {
+    width: 400px; /* Definindo a largura */
+    padding: 12px;
+    border: 1px solid #f0d7d3; /* Borda suave */
+    border-radius: 8px; /* Bordas arredondadas */
+    background-color: #f5faff; /* Cor de fundo */
+    font-size: 16px;
+    color: #333;
+    box-sizing: border-box;
+    text-align: center; /* Centralizando o texto */
+}
+
+/* Estilizando os selects */
+select.barra-encontre-vagas {
+    width: 400px;
+    padding: 12px;
+    border: 1px solid #f0d7d3;
+    border-radius: 8px;
+    background-color: #f5faff;
+    font-size: 16px;
+    color: #333;
+    box-sizing: border-box;
+    text-align: center; /* Centralizando o texto */
+}
+
+/* Estilizando o botão */
+button.botao-buscar {
+    width: 400px;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background-color: #FE7A8B; /* Cor do botão */
+    font-size: 16px;
+    color: white; /* Cor do texto */
+    cursor: pointer;
+}
+
+button.botao-buscar:hover {
+    background-color: #FE7A8B; /* Efeito hover */
+}
+
+
+
+/* Definindo o estilo do container */
+.barra-direitos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px; /* Espaçamento entre os elementos */
+    padding: 20px;
+    border-radius: 8px;
+    width: 100%; /* Ocupa 100% da largura disponível */
+    max-width: 600px; /* Define uma largura máxima */
+    margin: 0 auto; /* Centraliza horizontalmente */
+    left: 30px;
+    top: 5540px;
+    position: absolute;
+}
+
+/* Estilizando o input com listagem */
+input[list="paises"] {
+    width: 300px; /* Definindo a largura */
+    padding: 12px;
+    border: 1px solid #f0d7d3; /* Borda suave */
+    border-radius: 8px; /* Bordas arredondadas */
+    background-color: #f5faff; /* Cor de fundo */
+    font-size: 16px;
+    color: #333;
+    text-align: center; /* Centralizando o texto */
+    box-sizing: border-box;
+}
+
+/* Estilizando o botão */
+.botao-direios {
+    width: 300px;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background-color: #FE7A8B; /* Cor do botão */
+    font-size: 16px;
+    color: white; /* Cor do texto */
+    cursor: pointer;
+}
+
+.botao-direios:hover {
+    background-color: #FE7A8B; /* Efeito hover */
+}
+
+
+/* Container de mentoria */
+.div-mentoria, div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    top: 6500px;
+    left: 1370px;
+    position: absolute;
+    width: 300px;
+}
+
+/* Estilização dos rótulos */
+.label-titulo1 {
+    font-weight: bold;
+    font-size: 25px;
+    color: #333;
+    margin-bottom: 8px;
+    left: -210px;
+    top: -170px;
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.label-titulo2 {
+    font-weight: bold;
+    font-size: 25px;
+    color: #333;
+    margin-bottom: 8px;
+    left: -210px;
+    top: -110px;
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.label-titulo3 {
+    font-weight: bold;
+    font-size: 25px;
+    color: #333;
+    margin-bottom: 8px;
+    left: -210px;
+    top: -40px;
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/* Estilização dos selects */
+.select1 {
+    width: 400px;
+    padding: 12px;
+    border: none;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    color: #333;
+    box-sizing: border-box;
+    left: 20px;
+    top: -177px;
+    position: absolute;
+    border: 1px solid #f0d7d3; /* Borda suave */
+
+}
+
+.select2 {
+    width: 400px;
+    padding: 12px;
+    border: none;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    color: #333;
+    box-sizing: border-box;
+    left: 28px;
+    top: -110px;
+    position: absolute;
+    border: 1px solid #f0d7d3; /* Borda suave */
+}
+
+.select3 {
+    width: 400px;
+    padding: 12px;
+    border: none;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    color: #333;
+    box-sizing: border-box;
+    left: -50px;
+    top: -49px;
+    position: absolute;
+    border: 1px solid #f0d7d3; /* Borda suave */
+}
+
+
+
+
+
+/* Estilização do botão */
+.botao-mentoria {
+    width: 150px;
+    padding: 12px;
+    background-color: #f67d7d; /* Cor do botão */
+    color: white; /* Cor do texto */
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.botao-mentoria:hover {
+    background-color: #f26c6c; /* Efeito hover */
+}
+
+
+
+
+.botao-mentoria {
+    display: flex;
+    justify-content: center;
+    align-self: center; /* Centralizar o botão */
+    top: 30px;
+    left: 30px;
+    position: absolute;
+}
+

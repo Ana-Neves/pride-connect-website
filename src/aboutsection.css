@@ -1,0 +1,22 @@
+
+
+.h1-sobre-nos {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 70px;
+  font-weight: bolder;
+  left: 780px;
+  top: 980px;
+  position: absolute;
+}
+
+
+.texto-sobre-nos {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 28px;
+  text-align: center;
+  left: 490px;
+  top: 1200px;
+  position: absolute;
+}

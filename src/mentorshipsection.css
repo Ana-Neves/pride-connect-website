@@ -1,0 +1,135 @@
+
+.programa-mentoria {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: left;
+    left: 510px;
+    top: 6310px;
+    position: absolute;
+}
+
+
+.img-casal-para-meninas {
+    width: 550px;
+    left: 80px;
+    top: 6200px;
+    position: absolute;
+}
+
+
+Container de mentoria 
+.div-mentoria {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    width: 300px;
+    position: absolute;
+    top: 1300px;
+}
+
+
+.label-titulo1 {
+    font-weight: bold;
+    font-size: 25px;
+    color: #333;
+    margin-bottom: 8px;
+    position: absolute;
+    position: absolute;
+    top: 6380px;
+    left: 1130px;
+    font-family: 'Lucida Sans', 'Lucida Grande', Geneva, Verdana, sans-serif;
+}
+
+
+.label-titulo2 {
+    font-weight: bold;
+    font-size: 25px;
+    color: #333;
+    margin-bottom: 8px;
+    position: absolute;
+    top: 6450px;
+    left: 1130px;
+    font-family: 'Lucida Sans', 'Lucida Grande', Geneva, Verdana, sans-serif;
+}
+
+.label-titulo3 {
+    font-weight: bold;
+    font-size: 25px;
+    color: #333;
+    margin-bottom: 8px;
+    position: absolute;
+    top: 6540px;
+    left: 1130px;
+    font-family: 'Lucida Sans', 'Lucida Grande', Geneva, Verdana, sans-serif;
+}
+
+
+.select1 {
+    width: 400px;
+    padding: 12px;
+    border: 1px solid #f0d7d3;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    color: #333;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    position: absolute;
+    top: 6370px;
+    left: 1360px;
+}
+
+
+.select2 {
+    width: 400px;
+    padding: 12px;
+    border: 1px solid #f0d7d3;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    color: #333;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    position: absolute;
+    top: 6440px;
+    left: 1360px;
+}
+
+
+.select3 {
+    width: 400px;
+    padding: 12px;
+    border: 1px solid #f0d7d3;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    color: #333;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    position: absolute;
+    top: 6540px;
+    left: 1360px;
+}
+
+
+.botao-mentoria {
+    width: 150px;
+    padding: 12px;
+    background-color: #f67d7d;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    align-self: center;
+    position: absolute;
+    top: 6610px;
+    left: 1490px;
+}
+
+.botao-mentoria:hover {
+    background-color: #f26c6c;
+}

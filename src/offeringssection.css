@@ -1,0 +1,65 @@
+
+.o-que {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 45px;
+  font-weight: bolder;
+  text-align: center;
+  left: 670px;
+  top: 2410px;
+  position: absolute;
+}
+
+.texto-o-que {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 27px;
+  text-align: center;
+  left: 465px;
+  top: 2570px;
+  position: absolute;
+}
+
+
+.img-girls {
+  width: 300px;
+  left: 1330px;
+  top: 2630px;
+  position: absolute;
+}
+
+
+
+.vagas-de-emprego {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 27px;
+  text-align: center;
+  left: 465px;
+  top: 2750px;
+  position: absolute;
+
+}
+
+.direitos-trabalhistas {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 27px;
+  text-align: center;
+  left: 465px;
+  top: 2830px;
+  position: absolute;
+ 
+}
+
+.programas-de-mentoria {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 27px;
+  text-align: center;
+  left: 465px;
+  top: 2930px;
+  position: absolute;
+  
+}
+
