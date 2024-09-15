@@ -1,5 +1,7 @@
 import React from 'react';
 import girls from '../assets/img/girls.png';
+import '../offeringssection.css';
+
 
 function OfferingsSection() {
   return (

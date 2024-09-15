@@ -1,5 +1,6 @@
 import React from 'react';
-import lgbtgroup from '../assets/img/lgbtgroup.png';
+import lgbtgroup from '../assets/img/casalheart.png';
+import '../rightssection.css';
 
 function RightsSection() {
   return (

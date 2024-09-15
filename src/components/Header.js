@@ -1,5 +1,7 @@
 import React from 'react';
 import logo from '../assets/img/prideconnect-logo.png';
+import '../header.css';
+
 
 function Header() {
   return (

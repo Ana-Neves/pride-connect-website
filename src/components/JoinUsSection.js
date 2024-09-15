@@ -1,5 +1,6 @@
 import React from 'react';
 import handsheart from '../assets/img/handsheart.png';
+import '../joinussection.css';
 
 function JoinUsSection() {
   return (

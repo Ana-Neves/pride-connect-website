@@ -1,5 +1,6 @@
 import React from 'react';
 import pridepeople from '../assets/img/pridepeople-edited.png';
+import '../herosection.css';
 
 function HeroSection() {
   return (

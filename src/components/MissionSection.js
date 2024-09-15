@@ -1,5 +1,7 @@
 import React from 'react';
 import colorshearts from '../assets/img/colorshearts.png';
+import '../missionsection.css';
+
 
 function MissionSection() {
   return (

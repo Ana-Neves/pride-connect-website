@@ -1,11 +1,14 @@
 import React from 'react';
 import casalmeninas from '../assets/img/casalmeninas.png';
+import '../mentorshipsection.css';
+
 
 function MentorshipSection() {
   return (
     <section>
       <h1 className="programa-mentoria">Encontre o Programa de<br /> Mentoria Ideal<br /> para Você</h1>
       <img className="img-casal-para-meninas" src={casalmeninas} alt="Casal LGBTQIA+" />
+      
       <div className="div-mentoria">
         <label className="label-titulo1" htmlFor="area">Área de Atuação</label>
         <select className="select1" id="area" name="area">
@@ -33,6 +36,7 @@ function MentorshipSection() {
           <option value="hibrido">Híbrido</option>
         </select>
       </div>
+    
       <button className="botao-mentoria" onClick={() => alert('Buscando programas de mentoria')}>Buscar</button>
     </section>
   );
