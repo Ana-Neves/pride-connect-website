@@ -133,3 +133,9 @@ Container de mentoria
 .botao-mentoria:hover {
     background-color: #f26c6c;
 }
+
+.error-message {
+    color: red;
+    font-weight: bold;
+  }
+  

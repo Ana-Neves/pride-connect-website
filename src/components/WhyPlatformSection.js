@@ -1,5 +1,5 @@
 import React from 'react';
-import '../whyplatformsection.css'; // Certifique-se de criar este arquivo CSS
+import '../whyplatformsection.css';
 
 function WhyPlatformSection() {
   return (

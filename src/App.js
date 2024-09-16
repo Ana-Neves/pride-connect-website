@@ -10,6 +10,7 @@ import JoinUsSection from './components/JoinUsSection';
 import WhyPlatformSection from './components/WhyPlatformSection';
 import DidYouKnowSection from './components/DidYouKnowSection';
 import JobSearchSection from './components/JobSearchSection';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -25,7 +26,7 @@ function App() {
       <WhyPlatformSection />
       <DidYouKnowSection />
       <JobSearchSection />
-     
+      <Footer />
     </div>
   );
 }

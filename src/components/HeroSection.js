@@ -4,7 +4,7 @@ import '../herosection.css';
 
 function HeroSection() {
   return (
-    <section className="hero">
+    <section id="home" className="hero">
       <img className="img-pridepeople" src={pridepeople} alt="imagem das pride people" />
       <p className="bem">Bem</p> <p className="vindo">vindo</p> <p className="ao">ao</p>
       <h1 className="h1-PrideConnect">Pride Connect</h1>

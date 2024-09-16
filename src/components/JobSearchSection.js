@@ -1,6 +1,8 @@
-import React, { useState } from 'react';
+// components/JobSearchSection.js
+import React, { useEffect, useState } from 'react';
 import lgbtCoupleImage from '../assets/img/casallbgt.png'; // Certifique-se de ajustar o caminho da imagem
-import '../jobsearchsection.css'; // Importe o arquivo CSS correspondente
+import axios from 'axios';
+import '../jobsearchsection.css';
 
 function JobSearchSection() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -8,9 +10,22 @@ function JobSearchSection() {
   const [sector, setSector] = useState('');
   const [jobType, setJobType] = useState('');
   const [level, setLevel] = useState('');
+  const [vagas, setVagas] = useState([]);
+
+  const fetchVagas = async () => {
+    try {
+      const response = await axios.get('http://localhost:3002/vagas-inclusivas');
+      setVagas(response.data);
+    } catch (error) {
+      console.error('Erro ao buscar as vagas:', error);
+    }
+  };
+
+  useEffect(() => {
+    fetchVagas();
+  }, []);
 
   const handleSearch = () => {
-   
     console.log('Buscando vagas com:', {
       searchTerm,
       location,
@@ -18,10 +33,11 @@ function JobSearchSection() {
       jobType,
       level,
     });
+    // Aqui você pode adicionar lógica para filtrar as vagas com base nos critérios de busca.
   };
 
   return (
-    <section className="job-search-section">
+    <section id="vagas" className="job-search-section">
       <h2 className="encontre-vagas">
         Encontre Vagas<br />
         de Emprego<br />
@@ -83,6 +99,17 @@ function JobSearchSection() {
           Buscar
         </button>
       </div>
+
+      {/* Exibe as vagas */}
+      <ul>
+        {vagas.map((vaga, index) => (
+          <li key={index}>
+            <strong>Empresa:</strong> {vaga.empresa} <br />
+            <strong>Cargo:</strong> {vaga.cargo} <br />
+            <strong>Local:</strong> {vaga.local}
+          </li>
+        ))}
+      </ul>
     </section>
   );
 }
