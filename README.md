@@ -59,7 +59,7 @@ Este projeto é licenciado sob a MIT License.
 
 ## Siga-nos
 
-- Twitter: [@PrideConnect](https://twitter.com/PrideConnect)
-- Instagram: [@PrideConnect](https://instagram.com/PrideConnect)
+- Linkedin: [[@PrideConnect](https://www.linkedin.com/posts/ana-caroline-neves-fullstack_prideconnect-inclusaetolgbtqia-diversidadenotrabalho-activity-7244372280657514496-Tx1I?utm_source=share&utm_medium=member_desktop))
+  
 
 Obrigado por visitar o Pride Connect! 🏳️‍🌈💜
