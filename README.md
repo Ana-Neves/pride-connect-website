@@ -73,15 +73,7 @@ With our platform, you can explore inclusive job opportunities, access informati
 
 ---
 
-## 🚀 Quick Start
-
-To get started with Pride Connect in your development environment, follow these simple steps:
-
-```bash
-git clone https://github.com/yourusername/prideconnect.git
-cd prideconnect
-
-##  🌟 Features
+## 🌟 Features
 Home Page: Presents Pride Connect and welcomes visitors. 🌟
 
 About Us: Learn who we are and what we do. 💬
@@ -92,7 +84,9 @@ Labor Rights: Understand your rights and get support on employment issues. ⚖�
 
 Mentorship Programs: Explore and sign up for mentorship programs tailored to your needs. 🎓
 
-📂 Project Structure
+
+
+ ## 📂 Project Structure
 Here’s an overview of the main project components:
 
 HeroSection: The welcome section with an image and inspiring message. 🎉
@@ -108,5 +102,35 @@ MentorshipSection: Form to search for mentorship programs. 🌟
 OfferingsSection: What we offer and how we can help you. 🛠️
 
 RightsSection: Select your country to access labor rights information. 🌍
+
+## 🔧 Technologies Used
+React: To build the user interface
+
+Axios: For API integration and HTTP request management
+
+CSS: To style and beautify the landing page 🎨
+
+## 📢 Contribute!
+Want to help make Pride Connect even better? Feel free to open a pull request or report an issue. 🚀
+
+Fork the repository
+
+Create a new branch
+
+Make your changes
+
+Submit a pull request
+
+We look forward to your contributions! 🤗
+
+# 📜 License
+This project is licensed under the MIT License.
+
+# 🔗 Follow Us
+LinkedIn: @PrideConnect
+
+Thanks for visiting Pride Connect! 🏳️‍🌈💜
+
+
 
 
