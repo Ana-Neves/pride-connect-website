@@ -65,6 +65,8 @@ Este projeto é licenciado sob a MIT License.
 Obrigado por visitar o Pride Connect! 🏳️‍🌈💜
 
 
+___
+
 # 🎨 Pride Connect
 
 Welcome to Pride Connect! 🌈  
